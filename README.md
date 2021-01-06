@@ -1,5 +1,7 @@
 ### Hi there 👋, meu nome é Milena Marcele
 ### Sou desenvolvedora Java jr.
+
+![YOUR github stats](https://github-readme-stats.vercel.app/api?username=USERNAME)
 https://giphy.com/gifs/life-interesting-footage-ZVik7pBtu9dNS
 
 <!--
