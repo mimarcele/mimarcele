@@ -1,5 +1,6 @@
-### Hi there 👋, my name is Milena Marcele. 
+### Hi there 👋, i'm Milena 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/milena-marcele-gomes-7102151b0/)](https://www.linkedin.com/in/milena-marcele-gomes-7102151b0/)
+
 
 
 ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=mimarcele)
