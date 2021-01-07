@@ -3,7 +3,7 @@
 
 ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=mimarcele)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mimarcele&layout=compact)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mimarcele&layout=compact)
 
 
 <!--
