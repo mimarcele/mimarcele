@@ -1,5 +1,7 @@
 ### Hi there 👋, meu nome é Milena Marcele. 
-### Sou desenvolvedora Java jr.
+### SSkills
+
+![Alt Text](https://giphy.com/gifs/thecodingspacerd-code-coding-eatsleepcode-VTtANKl0beDFQRLDTh.gif)
 
 ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=mimarcele)
 
