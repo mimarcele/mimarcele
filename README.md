@@ -1,5 +1,4 @@
 ### Hi there 👋, meu nome é Milena Marcele. 
-### SSkills
 
 
 ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=mimarcele)
