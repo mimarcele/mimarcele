@@ -1,7 +1,7 @@
 ### Hi there 👋, i'm Milena 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/milena-marcele-gomes-7102151b0/)](https://www.linkedin.com/in/milena-marcele-gomes-7102151b0/)
 
-
+Skills: Java | HTML | CSS | JavaScrpit | Docker | 
 
 ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=mimarcele)
 
