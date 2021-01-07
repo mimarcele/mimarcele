@@ -1,4 +1,4 @@
-### Hi there 👋, meu nome é Milena Marcele. 
+### Hi there 👋, my name is Milena Marcele. 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/milena-marcele-gomes-7102151b0/)](https://www.linkedin.com/in/milena-marcele-gomes-7102151b0/)
 
 
