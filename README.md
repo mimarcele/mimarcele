@@ -1,5 +1,7 @@
-### Hi, welcome to my profile!   <img width="30" src="hhttps://giphy.com/gifs/producthunt-code-coding-learn-to-xT1XGzXhVgWRLN1Cco" alt="Learn code" />
+### Hi, welcome to my profile!   
 <hr width = “1” size = “150”>
+
+<img align="right" width="40%" src="https://media.giphy.com/media/xT1XGzXhVgWRLN1Cco/source.gif" alt="Learn code" />
 
 
 Where to find me:
