@@ -28,6 +28,12 @@ Skills:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mimarcele&layout=compact)
 
+<p align="right">
+  <a href="https://badges.pufler.dev">
+      <img src="https://badges.pufler.dev/visits/mimarcele/mimarcele" alt="Visitors badge" />
+   </a>
+</p>
+
 
 
 <!--
