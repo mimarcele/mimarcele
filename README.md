@@ -1,4 +1,4 @@
-### Hi, welcome to my profile!
+### Hi, welcome to my profile!   <img width="30" src="hhttps://giphy.com/gifs/producthunt-code-coding-learn-to-xT1XGzXhVgWRLN1Cco" alt="Learn code" />
 <hr width = “1” size = “150”>
 
 
