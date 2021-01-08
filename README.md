@@ -13,7 +13,6 @@ Where to find me:
 </a>
 
 Skills:
-<hr width = “1” size = “150”>
 
 <code><img height="32" src="https://user-images.githubusercontent.com/2676579/34940598-17cc20f0-f9be-11e7-8c6d-f0190d502d64.png" alt="Postman"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>
@@ -22,14 +21,11 @@ Skills:
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Git"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" alt="Docker"/></code>
 
-![YOUR github stats](https://github-readme-stats.vercel.app/api?username=mimarcele)
-<br/>
-
+<br>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mimarcele&show_icons=true&theme=dracula" alt="mimarcele's github stats" />
 </p>
-
-<br/>
+</br>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mimarcele&layout=compact)
 
