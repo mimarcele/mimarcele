@@ -1,4 +1,6 @@
 ### Hi there 👋, i'm Milena 
+<hr width = “2” size = “100”>
+
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/milena-marcele-gomes-7102151b0/)](https://www.linkedin.com/in/milena-marcele-gomes-7102151b0/)
 
 Skills: Java | HTML | CSS | JavaScript | Docker | 
