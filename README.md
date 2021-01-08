@@ -1,4 +1,4 @@
-### Hi there 👋, i'm Milena 
+### Hi, welcome to my profile!
 <hr width = “1” size = “150”>
 
 
