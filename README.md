@@ -26,8 +26,14 @@ Skills:
 
 <hr width = “1” size = “150”>
 <br>
+
   <img src="https://github-readme-stats.vercel.app/api?username=mimarcele&show_icons=true&theme=dracula" alt="mimarcele's github stats" />
 </br>
+
+<a href="https://github.com/mimarcele/github-readme-stats">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.mimarcele.vercel.app/api/top-langs/?username=mimarcele&layout=compact&theme=material-palenight" />
+</a>
 
 
 <p align="right">
