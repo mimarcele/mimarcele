@@ -40,7 +40,7 @@ Skills:
 
 <p align="right">
   <a href="https://badges.pufler.dev">
-      <img src="https://badges.pufler.dev/visits/mimarcele/mimarcele" alt="Visitors badge" />
+      <img src="https://badges.pufler.dev/visits/mimarcele/mimarcele" alt="Visitors badge"/>
    </a>
 </p>
 
